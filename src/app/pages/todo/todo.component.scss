@@ -1,0 +1,26 @@
+table {
+  width: 100%;
+}
+
+.completed-todo {
+  color: red;
+  text-decoration: line-through;
+}
+.title-container{
+  background-color: #3f4948;
+  h1{
+    color: white;
+    margin: 0;
+    text-align: center;
+    padding: 10px;
+  }
+}
+
+th{
+  font-size: large;
+  font-weight: bold;
+}
+
+td{
+  font-size: medium;
+}
